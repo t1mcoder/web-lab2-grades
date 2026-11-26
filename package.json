@@ -1,0 +1,11 @@
+{
+  "name": "web-lab2-grades",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Лабораторная работа 2: анализ успеваемости и работа с Pull Request",
+  "scripts": {
+    "start": "node report.js",
+    "test": "node --test"
+  }
+}
